@@ -5,10 +5,12 @@
 </div>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smithaker10&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smithaker10&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Smithaker10&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smithaker10&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
 
 </div>
+
 ## 🖐️ About Me
 - My full name is **Smit Thaker** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 - My major is **Full-stack Development**
