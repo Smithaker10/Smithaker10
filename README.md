@@ -1,4 +1,14 @@
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi+I'm+Smit+Thaker+%F0%9F%91%8B;Full+Stack+Developer;Cloud+%26+System+Design+Learner;Turning+Coffee+into+Clean+Code)
+
+</div>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smithaker10&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smithaker10&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
 ## 🖐️ About Me
 - My full name is **Smit Thaker** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
 - My major is **Full-stack Development**
@@ -28,4 +38,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Smithaker10/Smithaker10/output/pacman-contribution-graph.svg">
 </picture>
 ##
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Smithaker10&color=0fffd1&style=flat" />
+</p>
 > 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas in cloud computing.._
