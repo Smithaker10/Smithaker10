@@ -2,14 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi+I'm+Smit+Thaker+%F0%9F%91%8B;Full+Stack+Developer;Cloud+%26+System+Design+Learner;Turning+Coffee+into+Clean+Code)
 
-</div>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Smithaker10&show_icons=true&theme=tokyonight&border_radius=10" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smithaker10&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smithaker10&theme=tokyonight" />
 
 ## 🖐️ About Me
 - My full name is **Smit Thaker** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
