@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+System...;Access+Granted+%F0%9F%94%93;Hi+I'm+Smit+Thaker;Full+Stack+Developer;Cloud+%26+System+Design+Learner;Welcome+to+my+Matrix" />
 
 </div>
